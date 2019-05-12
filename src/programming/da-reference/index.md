@@ -1,9 +1,11 @@
 # Data Acquisition API Reference
 
+Please open the following links in new tabs or windows for the API reference.
+
 ## C
 
-Please refer to `/reference/data-acquisition/libmxidaf_c_reference`
+[libmxidaf_c_reference](../../reference/data-acquisition/libmxidaf_c_reference/index.html)
 
 ## Python
 
-Please refer to `/reference/data-acquisition/libmxidaf_py_reference`
+[libmxidaf_py_reference](../../reference/data-acquisition/libmxidaf_py_reference/index.html)
