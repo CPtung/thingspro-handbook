@@ -1,2 +1,5 @@
 # Mac cahce file
 .DS_Store
+
+# git submodules tracking file
+.gitmodules
