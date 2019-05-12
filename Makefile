@@ -11,7 +11,7 @@ $(OUTPUT)/reference/data-acquisition:
 
 $(OUTPUT)/reference/da-tutorial:
 	mkdir -p $@ && \
-	gitbook build da-tutorial/src/tutorial $@
+	gitbook build --gitbook=3.2.3 da-tutorial/src/tutorial $@
 
 $(OUTPUT):
 	mkdir -p $@
