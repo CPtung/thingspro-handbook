@@ -1,22 +1,19 @@
-# ThingsPro
+# ThingsPro Programming Guide
 
-## External Reference
+[![Netlify Status](https://api.netlify.com/api/v1/badges/218ebcac-f864-4bca-b9b8-fcbd24a14063/deploy-status)](https://app.netlify.com/sites/thingspro-programming-guide/deploys)
 
-### RESTful API Reference download
-- GATEWAY_UI_URL=http://jenkins.syssw.moxa.com/job/ThingsPro%20API%20UI/lastSuccessfulBuild/artifact/gateway-ui/*zip*/gateway-ui.zip
-- SERVER_UI_URL=http://jenkins.syssw.moxa.com/job/ThingsPro%20API%20UI/lastSuccessfulBuild/artifact/server-ui/*zip*/server-ui.zip
+## Continuous Deployment
 
-#### Build from source
+This programming guide is built with **Gitbook**.
+- GitBook 3.2.3
+- gitbook-cli 2.3.2
 
-1. openapi.js, openapi.json: http://jenkins.syssw.moxa.com/job/ThingsPro%20API/
-2. final result (server-ui.zip, gateway-ui.zip): http://jenkins.syssw.moxa.com/job/ThingsPro%20API%20UI/
+Host on **Netlify**.
+- Production branch: `master`
+- Reference=https://www.netlify.com/docs/continuous-deployment/
 
-> after step 1 finished, step 2 will be triggered automatically.
+### RESTful API Reference
+- GATEWAY_UI_URL=thingspro-gateway-oapi.netlify.com/
 
 ### DA API reference download
-
 - DA_REFERENCE_URL=http://jenkins.syssw.moxa.com/job/mxdaf/lastSuccessfulBuild/artifact/*zip*/archive.zip
-
-#### Build from source
-
-1. http://jenkins.syssw.moxa.com/job/mxdaf/
