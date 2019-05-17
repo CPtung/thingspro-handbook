@@ -1,8 +1,9 @@
 # Summary
 
+## ThingsPro Programming Guide - 2.5.1
 * [Introduction](README.md)
 
-### Application Note
+## Application Note
 * [Real time monitoring using MQTT](application-note/realtime-mqtt/index.md)
 * [Create historical data using data logging](application-note/historical-data-logging/index.md)
 * [Building IoT application with Azure IoT Hub](application-note/iot-app-azure/index.md)
@@ -11,7 +12,7 @@
 * [How to get AWS IoT host name topic certificates](application-note/How_to_get_AWS_IoT_host_name_topic_certificates_new/index.md)
 * [How to get Asure IoT Device connection string](application-note/How_to_get_Asure_IoT_Device_connection_string/index.md)
 
-### Programming Guide & Example Codes
+## Programming Guide & Example Codes
 * [Moving your application on the Raspberry Pi to ThingsPro Gateway](application-note/moving-app-on-raspberrypi-to-cg/index.md)
 * [How to develop program with ThingsPro Gateway RESTful API](application-note/develop-program-with-cg-api/index.md)
 * [User Program](programming/user-program/index.md)
