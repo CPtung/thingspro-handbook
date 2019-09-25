@@ -11,7 +11,7 @@
 * [Building IoT Application with AWS IoT SDK](application-note/iot-app-aws/index.md)
 * [Managing field device through VPN tunnel](application-note/managing-field-device-vpn/index.md)
 * [How to get AWS IoT host name topic certificates](application-note/How_to_get_AWS_IoT_host_name_topic_certificates_new/index.md)
-* [How to get Asure IoT Device connection string](application-note/How_to_get_Asure_IoT_Device_connection_string/index.md)
+* [How to get Azure IoT Device connection string](application-note/How_to_get_Azure_IoT_Device_connection_string/index.md)
 
 ## Programming Guide & Example Codes
 * [Moving your application on the Raspberry Pi to ThingsPro Gateway](application-note/moving-app-on-raspberrypi-to-cg/index.md)
