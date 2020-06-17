@@ -1,7 +1,7 @@
 # Summary
 
 ## ThingsPro Programming Guide
-### 2.5.1
+### 2.6.0
 * [Introduction](README.md)
 
 ## Application Note
